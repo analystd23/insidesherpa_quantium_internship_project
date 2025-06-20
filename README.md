@@ -19,6 +19,21 @@ Through hands-on tasks using R, I explored real-world transaction data, performe
 ---
 
 ### Code and Resources Used
+**R :**
+- **Libraries:** `dplyr`, `ggplot2`, `readr`, `tidyr`  
+- **Tools:** RStudio, Excel (for presentation output)
+
+---
+
+
+### InsideSherpa
+# [Quantium Data Analytics Virtual Experience Program](https://www.insidesherpa.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data%20Analytics%20Virtual%20Experience%20Program#lp)
+- This program consists of 3 tasks.
+- All files are my personal submission for this program. Not Quantium's model work files.
+
+---
+
+### Code and Resources Used
 **Python Version:** 3.7\
 **Packages:** pandas, numpy, sklearn, matplotlib, datetime, scipy, mlxtend
 
@@ -81,20 +96,4 @@ Number of Customers comparison:
 Use analytics and insights from Task 1 and 2 to prepare a report for the client, the Category Manager.
 - Used Pyramid Principle method to deliver insigths and recommendation to client in Powerpoint.
 
-- **Language:** R  
-- **Libraries:** `dplyr`, `ggplot2`, `readr`, `tidyr`  
-- **Tools:** RStudio, Excel (for presentation output)
-
----
-
-## 📈 Skills Developed
-
-- Data wrangling and feature engineering  
-- Customer behavior analysis and segmentation  
-- Hypothesis testing and A/B experimentation  
-- Business communication and insight generation  
-
----
-
-## 📂 Project Structure
 
