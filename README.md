@@ -10,7 +10,7 @@ Through hands-on tasks using R, I explored real-world transaction data, performe
 
 ## 🚀 Project Highlights
 
-### 🔧 Data Cleaning & Exploration
+### ![🔧 Data Cleaning & Exploration](https://github.com/analystd23/insidesherpa_quantium_internship_project/blob/main/assets/scripts/r/Quantium%20Virtual%20Internship%20task1.Rmd)
 - Transformed raw customer transaction datasets
 - Handled missing values and outliers
 - Extracted key features such as **brand**, **pack size**, and **loyalty status**
